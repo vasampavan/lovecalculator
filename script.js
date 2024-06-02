@@ -42,7 +42,7 @@ function calculatelove(yourname,crushname){
         return;
     }
     else if(yourname===crushname){
-        alert("ante meeru meeru");
+        alert("Your Name and Crush Name can't be same");
         return;     
     }
     
